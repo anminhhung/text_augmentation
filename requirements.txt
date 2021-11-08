@@ -1,0 +1,5 @@
+wand
+pillow
+numpy
+torch
+torchvision
